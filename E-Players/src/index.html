@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="PT-BR">
+<head>
+  <meta charset="utf-8">
+  <title>E-Players</title>
+  <base href="/">
+  <meta name="Caio Silva" content="i">
+  <meta name="description" content="Compre e venda jogos em midia digital mais barato. E-Players">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+  <app-root></app-root>
+  <script defer>
+    function logar(){
+      var login=document.getElementById("login").value;
+      var senha=document.getElementById("senha").value;
+
+      if(login=="admin" && senha=="admin"){
+          alert("Logado");
+          location.href="index.html";
+      }else{
+          alert("Falhou, login e senha padrão: admin admin");
+      }
+  }
+
+  </script>
+</body>
+</html>
