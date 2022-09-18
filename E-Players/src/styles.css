@@ -88,7 +88,7 @@
                     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                     font-size:x-large;
                     color: #FFFFFF;
-                    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #ff2d5e 0px 0px 20px, #ff2d2d 0px 0px 30px, #ff2d50 0px 0px 40px, #ff2d4c 0px 0px 50px, #ff2d5e 0px 0px 75px;
+                    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #42ff2d 0px 0px 20px, #7aff2d 0px 0px 30px, #ff2d50 0px 0px 40px, #ff2d4c 0px 0px 50px, #ff2d5e 0px 0px 75px;
                     position:absolute;
                     top: 0%;
                     bottom: auto;
@@ -118,7 +118,7 @@
                     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                     font-size:x-large;
                     color: #FFFFFF;
-                    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #ff2d5e 0px 0px 20px, #ff2d2d 0px 0px 30px, #ff2d50 0px 0px 40px, #ff2d4c 0px 0px 50px, #ff2d5e 0px 0px 75px;
+                    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #2dff50 0px 0px 20px, #4cff2d 0px 0px 30px, #ff2d50 0px 0px 40px, #ff2d4c 0px 0px 50px, #ff2d5e 0px 0px 75px;
                     position:relative;
                     top: 0%;
                     bottom: auto;
@@ -152,7 +152,7 @@
                     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                     font-size:x-large;
                     color: #FFFFFF;
-                    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #ff2d5e 0px 0px 20px, #ff2d2d 0px 0px 30px, #ff2d50 0px 0px 40px, #ff2d4c 0px 0px 50px, #ff2d5e 0px 0px 75px;
+                    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #37ff2d 0px 0px 20px, #2dff37 0px 0px 30px, #ff2d50 0px 0px 40px, #ff2d4c 0px 0px 50px, #ff2d5e 0px 0px 75px;
                     position:relative;
                     top: 0%;
                     left: auto;
@@ -187,7 +187,7 @@
                     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                     font-size:x-large;
                     color: #FFFFFF;
-                    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #ff2d5e 0px 0px 20px, #ff2d2d 0px 0px 30px, #ff2d50 0px 0px 40px, #ff2d4c 0px 0px 50px, #ff2d5e 0px 0px 75px;
+                    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #3eff2d 0px 0px 20px, #2dff3e 0px 0px 30px, #ff2d50 0px 0px 40px, #ff2d4c 0px 0px 50px, #ff2d5e 0px 0px 75px;
                     position:relative;
                     top: 0%;
                     left: auto;
@@ -227,7 +227,7 @@
                     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                     font-size:x-large;
                     color: #FFFFFF;
-                    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #ff2d5e 0px 0px 20px, #ff2d2d 0px 0px 30px, #ff2d50 0px 0px 40px, #ff2d4c 0px 0px 50px, #ff2d5e 0px 0px 75px;
+                    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #2dff30 0px 0px 20px, #45ff2d 0px 0px 30px, #ff2d50 0px 0px 40px, #ff2d4c 0px 0px 50px, #ff2d5e 0px 0px 75px;
                     position:relative;
                     top: 0%;
                     left: auto;
@@ -260,7 +260,7 @@
                     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                     font-size:x-large;
                     color: #FFFFFF;
-                    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #ff2d5e 0px 0px 20px, #ff2d2d 0px 0px 30px, #ff2d50 0px 0px 40px, #ff2d4c 0px 0px 50px, #ff2d5e 0px 0px 75px;
+                    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #2dff30 0px 0px 20px, #42ff2d 0px 0px 30px, #ff2d50 0px 0px 40px, #ff2d4c 0px 0px 50px, #ff2d5e 0px 0px 75px;
                     position:relative;
                     top: 0%;
                     left: auto;
@@ -315,8 +315,8 @@
                 border-top-right-radius:3px;
                 border-bottom-left-radius:3px;
                 border-bottom-right-radius:3px;
-                box-shadow:inset 0px 1px 0px 0px #a6827e;
-                text-shadow:inset 0px 1px 0px #54381e;
+                box-shadow:inset 0px 1px 0px 0px #84a67e;
+                text-shadow:inset 0px 1px 0px #24541e;
                 background:linear-gradient(#4b4b4bab, #676767bb);
                 -webkit-box-shadow: 1px 1px 5px 1px #00000078;
                 box-shadow: 1px 1px 5px 1px #00000076;
@@ -347,13 +347,13 @@
                 height:auto;
                 border-width:1px;
                 color:#ffffff;
-                border-color:#54381e;
+                border-color:#31541e;
                 border-top-left-radius:3px;
                 border-top-right-radius:3px;
                 border-bottom-left-radius:3px;
                 border-bottom-right-radius:3px;
-                box-shadow:inset 0px 1px 0px 0px #a6827e;
-                text-shadow:inset 0px 1px 0px #54381e;
+                box-shadow:inset 0px 1px 0px 0px #8ca67e;
+                text-shadow:inset 0px 1px 0px #4d541e;
                 background:linear-gradient(#4b4b4bab, #676767bb);
                 -webkit-box-shadow: 1px 1px 5px 1px #00000078;
                 box-shadow: 1px 1px 5px 1px #00000076;
@@ -376,6 +376,7 @@
             .banner{
                 width: 100%;
                 height: auto;
+                max-height: 600px;
                 padding: 0%;
                 margin: 0%;
                 -webkit-box-shadow: 5px 5px 15px 5px #0000007f;
@@ -462,10 +463,10 @@
           .GenericButton3 {
             z-index: 1;
             box-shadow:inset 0px 0px 14px -3px #ffffff;
-            background:linear-gradient(to bottom, #ffffff 5%, #a89292 100%);
-            background-color:#e6dac4;
+            background:linear-gradient(to bottom, #ffffff 5%, #92a892 100%);
+            background-color:#dee6c4;
             border-radius:6px;
-            border:1px solid #b8adad;
+            border:1px solid #b4b8ad;
             display:inline-block;
             cursor:text;
             color:#757d6f;
@@ -474,7 +475,7 @@
             font-weight:bold;
             padding:6px 24px;
             text-decoration:none;
-            text-shadow:0px 1px 0px #d9d6bf;
+            text-shadow:0px 1px 0px #d1d9bf;
             margin:0;
             align-items: center;
             justify-content: center;
@@ -485,8 +486,8 @@
 
         .GenericButton3:hover {
             z-index: 1;
-            background:linear-gradient(to bottom, #a8a192 5%, #e6cec4 100%);
-            background-color:#a89392;
+            background:linear-gradient(to bottom, #98a892 5%, #c4e6c7 100%);
+            background-color:#92a892;
         }
 
         .GenericButton3:active {
@@ -494,3 +495,42 @@
             position:relative;
             top:1px;
         }
+
+        #youtube{
+          z-index: 1;
+          display: inline-flex;
+          width:75%;
+          height: 600px;
+          border: 5px ridge #e1ffef;
+          border-radius: 5px 5px 5px 5px;
+          -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+          box-shadow: 5px 5px 15px 5px #000000;
+          margin: 0%;
+          padding: 0%;
+          justify-content: center;
+          text-align: center;
+          align-items: center;
+          align-content: center;
+          align-self: center;
+        }
+
+        #GenericButton1 {
+          z-index: 1;
+          box-shadow:inset 0px 0px 14px -3px #f2fadc;
+          border-radius:6px;
+          border:1px solid #b2b8ad;
+          display:inline-block;
+          color:#ffffff;
+          font-family:Arial;
+          font-size:x-large;
+          font-weight:normal;
+          padding:6px 24px;
+          text-decoration:none;
+          text-shadow:0px 1px 0px #ced9bf;
+          margin:0;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+          -webkit-box-shadow: 5px 5px 15px 5px #0000007b; 
+          box-shadow: 5px 5px 15px 5px #0000007b;
+      }
